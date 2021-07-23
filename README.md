@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexanbder
+- 👋 Hi, I’m Alexander
 - 👀 I’m web developer with 3 years of experience
 - 🌱 I’m currently learning app development for iOS platform
 
